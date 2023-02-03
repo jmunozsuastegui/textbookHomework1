@@ -11,6 +11,6 @@ public class Stamps {
 
          System.out.println("How many more does Jean have than Susan?");
 
-         System.out.println("The answer to this will be: " + difference);
+         System.out.println("The answer to this will be: " + difference );
     }
 }
