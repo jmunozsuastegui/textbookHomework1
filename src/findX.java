@@ -1,3 +1,10 @@
+/**
+ * Class Name: findX
+ * @Author: Jose Munoz Suastegui
+ * @Version: 1.0
+ * @Date: January 2023
+ * Description: A program designed to answer what number is X.
+ */
 public class findX {
     public static void main(String [] args){
 

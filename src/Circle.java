@@ -1,3 +1,11 @@
+/**
+ * Class Name: Circle
+ * @Author: Jose Munoz Suastegui
+ * @Version: 1.0
+ * @Date: January 2023
+ * Description: A program designed to display the area and perimeter of a circle that has a radius of 9.5 using the
+ * the formula provided.
+ */
 public class Circle {
     public static void main(String[] args) {
         double radius = 9.5;

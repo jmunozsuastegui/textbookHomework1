@@ -1,3 +1,10 @@
+/**
+ * Class Name: Cycle
+ * @Author: Jose Munoz Suastegui
+ * @Version: 1.0
+ * @Date: January 2023
+ * Description: A program designed to answer the number of tricycles in the problem.
+ */
 public class Cycle {
     public static void main(String[] args){
         int bicycles = 10;

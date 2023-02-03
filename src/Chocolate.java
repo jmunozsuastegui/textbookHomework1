@@ -1,3 +1,10 @@
+/**
+        * Class Name: Chocolate
+        * @Author: Jose Munoz Suastegui
+        * @Version: 1.0
+        * @Date: January 2023
+        * Description: A program designed to answer the number of bags needed to add three chocolate bars
+ */
 public class Chocolate {
     public static void main(String[] args) {
         int totalNumberOfBags = 9;

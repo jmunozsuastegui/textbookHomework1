@@ -5,9 +5,6 @@
  * @Date: January 2023
  * Description: A program designed to calculate the speed of light
  */
-
-
-
 public class SpeedLight {
     public static void main(String[] args){
         int SPEED_OF_SOUND = 340;
